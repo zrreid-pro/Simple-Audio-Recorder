@@ -1,0 +1,2 @@
+# Simple-Audio-Recorder
+This an assignment I did for an Android App Development class I was taking. It's an early work so it's pretty rough around the edges. It may not be the most efficient way to get the job done but it worked at the time. I'm always interested in how to do things better than I currently am so if you have any ideas about how to improve the app, feel free to comment and I'll check it out!
